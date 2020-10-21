@@ -1,0 +1,49 @@
+{
+  "_from": "CanvasToImage",
+  "_id": "CanvasToImage",
+  "_inBundle": false,
+  "_location": "/CanvasToImage",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "CanvasToImage",
+    "name": "CanvasToImage",
+    "escapedName": "CanvasToImage",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_spec": "CanvasToImage",
+  "author": {
+    "name": "Ashutosh Patel"
+  },
+  "bugs": {
+    "url": "https://github.com/ashutoshshubam/CanvasToImage/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Canvas2Image cannot be imported as a module and seems to no longer be maintained.",
+  "homepage": "https://github.com/ashutoshshubam/CanvasToImage#readme",
+  "keywords": [
+    "wrapper",
+    "CanvasToImage",
+    "ReactJs",
+    "es6"
+  ],
+  "license": "GPL-3.0",
+  "main": "CanvasToImage.js",
+  "name": "CanvasToImage",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashutoshshubam/CanvasToImage.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
