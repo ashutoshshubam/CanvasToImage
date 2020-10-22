@@ -1,16 +1,16 @@
-# canvas2image 2
+# canvas2image
 
 Canvas2Image cannot be imported as a module and seems to no longer be maintained.
 
-This repository contains the original code, a few changes and a export statement.
+This repository contains the original code, a few changes for fileName and a export statement.
 
 ### Usage
 ```bash
-npm install canvas-to-image
+npm install canvas-to-png
 ```
 
 ```js
-import Canvas2image from "canvas2image-2";
+import Canvas2image from "canvas-to-png";
 
 Canvas2image.convertToPNG(canvas, 400, 400);
 Canvas2Image.saveAsImage(canvasObj, width, height, type,fileName)
